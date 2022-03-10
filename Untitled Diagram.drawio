@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T07:06:09.931Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="1YpX6hidESS0EDQfNVRD" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T09:28:21.628Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="eLkEwt4PdYv1fcXsnqLV" version="17.0.0" type="github">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="1429" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,7 +289,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0WDDUrcAv4NWZbTApktF-52" value="&lt;span&gt;&amp;nbsp; Assumptions:&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span&gt;&amp;nbsp; Each supplier must offer product.&lt;/span&gt;&lt;br&gt;&lt;span&gt;&amp;nbsp; Each product must have a supplier.&lt;br&gt;&lt;/span&gt;&amp;nbsp; Each product can have zero order for it.&lt;br&gt;&lt;span&gt;&amp;nbsp; Each restaurant must place order for product.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=left;" parent="1" vertex="1">
-          <mxGeometry x="20" y="660" width="550" height="150" as="geometry" />
+          <mxGeometry x="20" y="660" width="480" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
